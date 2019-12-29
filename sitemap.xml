@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://zuoyoulai.github.io/2019/12/29/Go-Study/</loc>
+    
+    <lastmod>2019-12-29T15:56:01.701Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://zuoyoulai.github.io/2019/12/27/Linux-Vim/</loc>
     
-    <lastmod>2019-12-28T15:19:50.033Z</lastmod>
+    <lastmod>2019-12-28T16:42:54.337Z</lastmod>
     
   </url>
   
@@ -16,14 +23,14 @@
   </url>
   
   <url>
-    <loc>https://zuoyoulai.github.io/2019/12/25/windows-Mq/</loc>
+    <loc>https://zuoyoulai.github.io/2019/12/24/hexo-study-md/</loc>
     
     <lastmod>2019-12-26T03:16:15.326Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://zuoyoulai.github.io/2019/12/24/hexo-study-md/</loc>
+    <loc>https://zuoyoulai.github.io/2019/12/25/windows-Mq/</loc>
     
     <lastmod>2019-12-26T03:16:15.326Z</lastmod>
     
