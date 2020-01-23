@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://zuoyoulai.github.io/"/>
-  <updated>2020-01-23T03:27:58.888Z</updated>
+  <updated>2020-01-22T07:40:34.345Z</updated>
   <id>https://zuoyoulai.github.io/</id>
   
   <author>
@@ -15,29 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>test-我的测试</title>
-    <link href="https://zuoyoulai.github.io/2020/01/23/test/"/>
-    <id>https://zuoyoulai.github.io/2020/01/23/test/</id>
-    <published>2020-01-23T03:27:37.000Z</published>
-    <updated>2020-01-23T03:27:58.888Z</updated>
-    
-    <content type="html"><![CDATA[<p>dalsdasdas 是哒是哒</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;dalsdasdas 是哒是哒&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
   
   <entry>
     <title>mybatis-batch 批处理</title>
