@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://zuoyoulai.github.io/2020/03/20/k8s-kubeadm1-7%E5%AE%89%E8%A3%85/</loc>
+    
+    <lastmod>2020-03-20T06:34:24.990Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://zuoyoulai.github.io/2020/03/16/mac%E6%93%8D%E4%BD%9C%E8%99%9A%E6%8B%9F%E6%9C%BA/</loc>
+    
+    <lastmod>2020-03-20T05:01:23.073Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://zuoyoulai.github.io/2020/03/18/k8s%E5%AD%A6%E4%B9%A0/</loc>
+    
+    <lastmod>2020-03-20T03:27:38.873Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://zuoyoulai.github.io/2020/03/06/%E8%B5%84%E6%BA%90%E5%9C%A8%E7%BA%BF%E4%B8%8E%E4%B8%8B%E8%BD%BD/</loc>
     
     <lastmod>2020-03-18T08:35:12.436Z</lastmod>
@@ -12,13 +33,6 @@
     <loc>https://zuoyoulai.github.io/2019/12/25/%E5%80%9F%E9%89%B4%E5%8D%9A%E5%AE%A2%E5%AD%A6%E4%B9%A0-md/</loc>
     
     <lastmod>2020-03-18T02:59:56.568Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://zuoyoulai.github.io/2020/03/16/mac%E6%93%8D%E4%BD%9C%E8%99%9A%E6%8B%9F%E6%9C%BA/</loc>
-    
-    <lastmod>2020-03-17T02:32:31.941Z</lastmod>
     
   </url>
   
