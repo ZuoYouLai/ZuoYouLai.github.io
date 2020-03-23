@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://zuoyoulai.github.io/2020/03/21/jenkins%E5%AD%A6%E4%B9%A0/</loc>
+    
+    <lastmod>2020-03-23T15:36:37.176Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://zuoyoulai.github.io/2020/03/18/k8s%E5%AD%A6%E4%B9%A0/</loc>
+    
+    <lastmod>2020-03-23T15:33:03.501Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://zuoyoulai.github.io/2020/03/20/k8s-kubeadm1-7%E5%AE%89%E8%A3%85/</loc>
+    
+    <lastmod>2020-03-23T15:33:03.467Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://zuoyoulai.github.io/2020/03/23/docker-rocketmq/</loc>
     
     <lastmod>2020-03-23T15:19:50.540Z</lastmod>
@@ -9,30 +30,9 @@
   </url>
   
   <url>
-    <loc>https://zuoyoulai.github.io/2020/03/21/jenkins%E5%AD%A6%E4%B9%A0/</loc>
-    
-    <lastmod>2020-03-23T09:11:32.559Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://zuoyoulai.github.io/2020/03/20/k8s-kubeadm1-7%E5%AE%89%E8%A3%85/</loc>
-    
-    <lastmod>2020-03-20T06:34:24.990Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://zuoyoulai.github.io/2020/03/16/mac%E6%93%8D%E4%BD%9C%E8%99%9A%E6%8B%9F%E6%9C%BA/</loc>
     
     <lastmod>2020-03-20T05:01:23.073Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://zuoyoulai.github.io/2020/03/18/k8s%E5%AD%A6%E4%B9%A0/</loc>
-    
-    <lastmod>2020-03-20T03:27:38.873Z</lastmod>
     
   </url>
   
