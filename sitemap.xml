@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://zuoyoulai.github.io/2020/03/23/docker-rocketmq/</loc>
+    
+    <lastmod>2020-03-23T15:19:50.540Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://zuoyoulai.github.io/2020/03/21/jenkins%E5%AD%A6%E4%B9%A0/</loc>
+    
+    <lastmod>2020-03-23T09:11:32.559Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://zuoyoulai.github.io/2020/03/20/k8s-kubeadm1-7%E5%AE%89%E8%A3%85/</loc>
     
     <lastmod>2020-03-20T06:34:24.990Z</lastmod>
